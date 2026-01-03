@@ -22,5 +22,5 @@ Former product manager learning to build the systems I used to spec. I’m focus
 - I try to bridge business intent with technical reality
 
 ### Get in touch
-- [LinkedIn]([url](https://www.linkedin.com/in/malikanmol/))
+- [LinkedIn]((https://www.linkedin.com/in/malikanmol/))
 - [malik.codes](https://malik.codes)
