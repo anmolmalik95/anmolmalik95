@@ -24,3 +24,7 @@ Former product manager learning to build the systems I used to spec. I work hand
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/malikanmol/)
 - [malik.codes](https://malik.codes)
+
+```
+![Visitor Count](https://profile-counter.glitch.me/{anmolmalik95}/count.svg)
+```
