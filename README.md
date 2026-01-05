@@ -16,11 +16,6 @@ Former product manager learning to build the systems I used to spec. I work hand
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### How I work
-- Prefer simple, reliable solutions
-- Think about failure cases early
-- Try to keep business intent and technical reality aligned
-
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/malikanmol/)
 - [malik.codes](https://malik.codes)
